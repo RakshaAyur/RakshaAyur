@@ -19,7 +19,7 @@ class UI{
             let div=`<div class="remove">X</div>
             <ul class="navbar-nav "> 
             <li class="nav-item hm"><a href="index.html#abt" class="nav-link text-white">About us</a></li>
-            <li class="nav-item"><a href="index.html#Bestsales" class="nav-link text-white">Best Arrival</a></li>
+            <li class="nav-item"><a href="index.html#Bestsales" class="nav-link text-white">Popular Products</a></li>
             <li class="nav-item"><a href="index.html#NewArrival" class="nav-link text-white">New Arrival</a></li>
             <li class="nav-item"><a href="index.html#HomeCare" class="nav-link text-white">Home Care</a></li>
             <li class="nav-item"><a href="index.html#HealthCare" class="nav-link text-white">Health Care</a></li>
