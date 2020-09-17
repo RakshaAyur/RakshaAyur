@@ -25,7 +25,6 @@ class UI{
             <li class="nav-item"><a href="index.html#HealthCare" class="nav-link text-white">Health Care</a></li>
             <li class="nav-item"><a href="index.html#FoodCare" class="nav-link text-white">Food Care</a></li>
             <li class="nav-item"><a href="index.html#PoojaStore" class="nav-link text-white">Pooja Store</a></li>
-            <li class="nav-item"><a href="index.html#AgriCare" class="nav-link text-white">Agri Care</a></li>
     
         </ul>`
         menu.innerHTML=div
