@@ -12,7 +12,7 @@ document.addEventListener("click",function(e){
        <div class="orde_form">
          <input type="hidden" name="entry.884968384" id="order_prdct" value="${item}" class="qnty">
          <input type="text" name="entry.1966057375" id="quantity" class="qnty" placeholder="Quantity"><br>   
-         <input type="number" name="entry.1623498990" class="num" id="mobile_no" required placeholder="Mobile No"><br>
+         <input type="text" name="entry.1623498990" class="num" id="mobile_no" maxlength="10" pattern="[1-9]{10}" required placeholder="Mobile No"><br>
          <input type="text" name="entry.323971090" class="qnty" id="otherprdct" placeholder="Any other product you are interested in?"><br><br>
          <span style="text-align:center">Lets use Swadeshi, Healthy and Natural Products</span>
        </div>
